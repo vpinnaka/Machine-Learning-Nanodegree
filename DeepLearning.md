@@ -1,6 +1,4 @@
 
-# Neural Networks
-
 # Deep Learning
 
 ### Neural networks in Keras
