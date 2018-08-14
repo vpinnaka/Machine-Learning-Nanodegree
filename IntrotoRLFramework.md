@@ -17,7 +17,7 @@
    * Pole Balancing [.](https://medium.com/@tuzzer/cart-pole-balancing-with-q-learning-b54c6068d947)
 8. Markov Decision Process (MDP)[.](https://www.youtube.com/watch?v=NBWbluSbxPg)[.](https://www.youtube.com/watch?v=CUTtQvxKkNw)[.](https://www.youtube.com/watch?v=UlXHFbla3QI)
 9. Summary
-<div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index--markdown--3w8oF ureact-markdown ">
+<div class="_main--content-container--ILkoI"><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index--markdown--3w8oF ureact-markdown "><h1 id="summary">Summary</h1>
 </div></div><span></span></div><div class="index--instructor-notes-container--24U8Y shared--outer-container--3eppq"><div class="index--instructor-notes--39nNE layout--content--3Smmq"><div><!-- react-empty: 6323 --></div></div></div></div></div><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div><a href="#" class="image-atom--image-atom--1XDdu"><div class="index--image-atom-content--YoZVu"><div class="index--image-and-annotations-container--1o6QP"><img src="https://d17h27t6h515a5.cloudfront.net/topher/2017/September/59c29f47_screen-shot-2017-09-20-at-12.02.06-pm/screen-shot-2017-09-20-at-12.02.06-pm.png" alt="" width="738px" class="index--image--1wh9w"></div><div class="index--caption--34paT"><div class="index--markdown--3w8oF ureact-markdown "><p>The agent-environment interaction in reinforcement learning. (Source: Sutton and Barto, 2017)</p>
 </div></div></div></a></div><span></span></div><div class="index--instructor-notes-container--24U8Y shared--outer-container--3eppq"><div class="index--instructor-notes--39nNE layout--content--3Smmq"><div><!-- react-empty: 6338 --></div></div></div></div></div><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index--markdown--3w8oF ureact-markdown "><h3 id="the-setting-revisited">The Setting, Revisited</h3>
 <hr>
@@ -82,4 +82,4 @@
 </ul>
 </li>
 </ul>
-</div></div><span></span></div><div class="index--instructor-notes-container--24U8Y shared--outer-container--3eppq"><div class="index--instructor-notes--39nNE layout--content--3Smmq"><div><!-- react-empty: 6408 --></div></div></div></div></div>
+</div></div><span></span></div><div class="index--instructor-notes-container--24U8Y shared--outer-container--3eppq"><div class="index--instructor-notes--39nNE layout--content--3Smmq"><div><!-- react-empty: 6408 --></div></div></div></div></div></div>
