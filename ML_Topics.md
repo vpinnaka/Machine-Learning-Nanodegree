@@ -27,7 +27,7 @@
   - Restricted Boltzmann Machine
   - Autoencoder
 * Natural Language processing
-  - Stemming
+  - Stemming(Porter stemmer, Tf-ldf, N-gram)
   - Sentiment Analysis
   - Lemmatization
   - Word sense disambiguation
